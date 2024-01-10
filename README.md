@@ -23,6 +23,7 @@ Machine Learning and Computer Vison
 
   ### -Raspberry pi 5 Ultumate Emulator 
   Software designed to emulate retro games on the Raspberry Pi 5.
+  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Completed Projects:
  ### -Dynamic Lot History Search
