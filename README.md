@@ -1,18 +1,17 @@
-Account migrated From University Email linked account to Personal Email Github: 1/9/2024
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About Me: 
 Hello, my name is RJ Belanger. I am a Software Developer graduating from Eastern Washington University in March 2024, with a B.S. in Computer Science and a Minor in Cyber Security. I'm actively seeking exciting career opportunities for post-graduation. During my internship at Kaiser Aluminium, I gained significant experience in Python, SQL, and managing large-scale data. A notable achievement was developing the Dynamic Lot Search application, which efficiently queries millions of records to display detailed lot information for inspection and data analysis. This experience, combined with my academic achievements and personal projects, makes me confident in succeeding in a graduate-level role.
 
 In my free time, I enjoy snowboarding, hiking, mountain biking, baking, and playing video games. As a hobby, I build computers, robots, and develop PC and mobile games whenever possible. Recently, I finished building the Nove Hexapod, which has 16 servos controlling 6 legs. I'm now working on programming it to dance, in addition to controlling its movements. My next project is a 3D-printed mechanical arm controlled by an Arduino. I am also continuing the development of my other video game projects listed below.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### How To Reach Me:
 Phone: 509-230-4164
 Email: belangerrj@gmail.com
 Linkedin: https://www.linkedin.com/in/rj-belanger/
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Currently Learning: 
 Machine Learning and Computer Vison
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Current Projects:
   ### -ARCTIC (Automated Range Creation Tool and Integrated Console)
   A capstone project developed with three teammates to assist in training the U.S. Army's
@@ -24,7 +23,7 @@ Machine Learning and Computer Vison
 
   ### -Raspberry pi 5 Ultumate Emulator 
   Software designed to emulate retro games on the Raspberry Pi 5.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 ### Completed Projects:
  ### -Dynamic Lot History Search
   As mentioned earlier, this is the project I'm most proud of. Developed during my
@@ -72,6 +71,7 @@ Machine Learning and Computer Vison
  ### -Freenova Hexapod spider example code  
   example control code for the Hexapod and my code for silly spider dance
 
+### Account migrated From University Email linked account to Personal Email Github: 1/9/2024
 ### *All university assignments set to private* 
 
 
