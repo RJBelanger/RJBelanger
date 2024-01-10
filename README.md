@@ -3,14 +3,14 @@ Hello, my name is RJ Belanger. I am a Software Developer graduating from Eastern
 
 In my free time, I enjoy snowboarding, hiking, mountain biking, baking, and playing video games. As a hobby, I build computers, robots, and develop PC and mobile games whenever possible. Recently, I finished building the Nove Hexapod, which has 16 servos controlling 6 legs. I'm now working on programming it to dance, in addition to controlling its movements. My next project is a 3D-printed mechanical arm controlled by an Arduino. I am also continuing the development of my other video game projects listed below.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### How To Reach Me:
 Phone: 509-230-4164
 Email: belangerrj@gmail.com
 Linkedin: https://www.linkedin.com/in/rj-belanger/
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Currently Learning: 
 Machine Learning and Computer Vison
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Current Projects:
   ### -ARCTIC (Automated Range Creation Tool and Integrated Console)
