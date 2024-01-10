@@ -15,7 +15,7 @@ Machine Learning and Computer Vison
 
 ### Current Projects:
   ### -ARCTIC (Automated Range Creation Tool and Integrated Console)
-      A capstone project developed with three teammates to assist in training the U.S. Army's
+  A capstone project developed with three teammates to assist in training the U.S. Army's
       1st Multi-Domain Task Force (MDTF) in cybersecurity. ARTCIC is an internal cyber range.
       We are developing a contained application that creates sudo users to simulate normal 
       network activity and executes red team actions using PowerShell scripts. It features a 
@@ -23,11 +23,11 @@ Machine Learning and Computer Vison
       overhead of having the network activity and red team actions currently run by soldiers.
 
   ### -Raspberry pi 5 Ultumate Emulator 
-      Software designed to emulate retro games on the Raspberry Pi 5.
+  Software designed to emulate retro games on the Raspberry Pi 5.
 
 ### Completed Projects:
  ### -Dynamic Lot History Search
-      As mentioned earlier, this is the project I'm most proud of. Developed during my
+  As mentioned earlier, this is the project I'm most proud of. Developed during my
       internship, it went through the entire software development cycle and was rolled out to
       production, receiving both positive and constructive feedback. The application dynamically
       and efficiently queries millions of records to display detailed lot information,
@@ -41,36 +41,36 @@ Machine Learning and Computer Vison
       Avg 4.5 secounds from originaly avg of 16 secounds.
       
  ### -Coles Cafe 
-      A website I created using React to redesign the cafe website in our university's lobby. The
+  A website I created using React to redesign the cafe website in our university's lobby. The
       focus was on front-end design, improving the overall flow of the website and organizing the
       online ordering experience to boost business.
 
  ### -Game Hub 
-      A project I developed with two teammates using Python and Pygame. It features a retro UI
+   A project I developed with two teammates using Python and Pygame. It features a retro UI
       main lobby where you can choose from five different games developed by our team. The games
       include Duck Hunt, Space Invaders, Ping Pong, Snake, and Tic Tac Toe. I was responsible for
       developing the main menu, Duck Hunt, and Ping Pong. Creating custom pixel art for Duck Hunt
       and the heads on the main screen was my favorite part. Getting the ducks to move across the
       screen as well as having the gun move to where your mouse is facing was an interesting challenge.
       
-      All 5 Games Avalible:
+  All 5 Games Avalible:
       -Duck Hunt   -Space Invaders 
       -Ping Pong   -Snake   -Tik Tak Toe  
 
  ### -Cruse Control Simulation  
-     C code developed to simulate a cruise control system on a TM12334322 chip from Texas
+   C code developed to simulate a cruise control system on a TM12334322 chip from Texas
      Instruments. It displays speed in MPH, KPH, or the current cruise set speed on a peripheral
      board with a 7-segment display. The system can adjust speed up or down and displays the state
      of speed using LED program utalizes several debounced timers and some calls to assembly code.
      
  ### -Ticket Booking Airline  
-      An airport ticket booking simulation built in Java utilizing a hashmap to track seat
+   An airport ticket booking simulation built in Java utilizing a hashmap to track seat
       availability on flights. This project was developed using test-driven design, implementing
       JUnit tests. Will give it your seat seat number you wish to book and it will determine seat 
       availability and return the result.
 
  ### -Freenova Hexapod spider example code  
-      example control code for the Hexapod and my code for silly spider dance
+  example control code for the Hexapod and my code for silly spider dance
 
 ### *All university assignments set to private* 
 
